@@ -1,0 +1,2 @@
+pour ouvrir base acces et retrouver menus habituels appuyez sur 
+touche shift lors démarrage application après clic sur icône.
